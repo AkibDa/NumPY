@@ -20,7 +20,7 @@ This repo covers the following basic NumPy concepts:
 
 ## How to Use This Repo
 
-1. Clone the repository: `git clone https://github.com/AkibDa/NumPY.git` (Replace with your actual repo URL)
+1. Clone the repository: `git clone https://github.com/AkibDa/NumPY.git` 
 2. Navigate to the directory: `cd NumPY`
 3. The code examples and exercises are in main.py. You can run them using a Python environment with NumPy installed.  
 
