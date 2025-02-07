@@ -1,6 +1,6 @@
 # NumPy Basics
 
-This repository contains my notes and practice exercises covering the fundamentals of NumPy. I learned these concepts primarily from the Google for Developers YouTube video on NumPy (https://www.youtube.com/watch?v=xECXZ3tyONo).
+This repository contains my notes and practice exercises covering the fundamentals of NumPy. I learned these concepts primarily from the Google for Developers YouTube video on NumPy.
 
 ## What is NumPy?
 
@@ -15,14 +15,14 @@ This repo covers the following basic NumPy concepts:
 * **Array Indexing and Slicing:** Accessing individual elements and sub-arrays using various indexing and slicing techniques.
 * **Array Operations:** Performing element-wise mathematical operations (addition, subtraction, multiplication, division, etc.) on NumPy arrays.
 * **Reshaping Arrays:** Changing the dimensions of arrays using functions like `reshape` and `flatten`.
-* **Broadcasting:** Understanding how NumPy handles operations on arrays of different shapes. (Optional - include if you covered this)
-* **Basic Linear Algebra:** (Optional - include if you covered this)  A brief introduction to linear algebra operations with NumPy (e.g., matrix multiplication using `@` or `np.dot`).
+* **Broadcasting:** Understanding how NumPy handles operations on arrays of different shapes. 
+* **Basic Linear Algebra:** A brief introduction to linear algebra operations with NumPy (e.g., matrix multiplication using `@` or `np.dot`).
 
 ## How to Use This Repo
 
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git` (Replace with your actual repo URL)
-2. Navigate to the directory: `cd YOUR_REPO_NAME`
-3. The code examples and exercises are in [mention the file names or directories where the code is]. You can run them using a Python environment with NumPy installed.  (e.g., `python my_numpy_examples.py`)
+1. Clone the repository: `git clone https://github.com/AkibDa/NumPY.git` (Replace with your actual repo URL)
+2. Navigate to the directory: `cd NumPY`
+3. The code examples and exercises are in main.py. You can run them using a Python environment with NumPy installed.  
 
 ## Author
 
